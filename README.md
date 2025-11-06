@@ -1,19 +1,23 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l21210469-cmyk/Practica4MSF)
 
-Práctica 4: Regeneracion de Globulos Rojos
-Información del estudiante
-Preciado Herndez Andres [21210469]; l21210469@tectijuana.edu.mx
+# Práctica 4: Regeneracion de Globulos Rojos
+
+## Información del estudiante
+
+Preciado Herndez Andres \[21210469]; l21210469@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
 Ingeniería Biomédica
 
-Docente
+## Docente
+
 Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México.
 
-Descripción de la asignatura
+## Descripción de la asignatura
+
 El modelizado de sistemas fisiológicos es una herramienta 
 importante en Ingeniería Biomédica, permite comprender el 
 funcionamiento del cuerpo humano, así como diseñar y evaluar 
@@ -53,7 +57,7 @@ x1_0 = 60.4554, 56.5741, 57.9547, 58.7860, 56.6115, 59.3241, 56.4367, 61.0614, 5
 x2_0 =60.4554, 56.5741, 57.9547, 58.7860, 56.6115, 59.3241, 56.4367, 61.0614, 59.6083, 60.7269
 x3_0 =60.4554, 56.5741, 57.9547, 58.7860, 56.6115, 59.3241, 56.4367, 61.0614, 59.6083, 60.7269
 
-Objetivos
+## Objetivos
 1. Comprender el proceso de eritropoyesis
 2. Fortalecer la relación entre modelos matemáticos y procesos biológicos reales
 3. Simular la recuperación del número de eritrocitos
@@ -62,7 +66,7 @@ Objetivos
 6. Aplicar el método numérico de Euler
 7. Desarrollar habilidades para la resolución computacional
 
-Descripción detallada del sistema
+## Descripción detallada del sistema
 
 El modelo utilizado describe el proceso de eritropoyesis, es decir, la producción y maduración de glóbulos rojos en el organismo. Este proceso se representa mediante tres compartimentos celulares que evolucionan con el tiempo:
 
@@ -78,13 +82,13 @@ La hormona eritropoyetina, producida por el riñón, regula este proceso y aumen
 Palabras clave: Eritropoyesis; Eritropoyetina; Glóbulos rojos; Modelado matemático; Ecuaciones diferenciales; Transfusión sanguínea;
 
 
-Lista de archivos incluidos en el repositorio
+## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB \[.mlx].
 2. Imágenes de las simulaciones Caso Sin transfusion sanguinea \[.pdf ].
 3. Imágenes de las simulaciones Caso Con transfusion sanguinea \[.pdf ].
 
 
-Referencias
+## Referencias
 [1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
 
 [2] Tetschke, M., Liebenthal, P., Potgieter, T., Fiechter, T., Schälte, E., & Sager, S. (2018). Mathematical modeling of RBC count dynamics after blood loss. Processes, 6(9), 157. file:///C:/Users/HP/Downloads/processes-06-00157.pdf
